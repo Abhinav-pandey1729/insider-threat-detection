@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+fastapi
+uvicorn
+kagglehub
+pickle-mixin
